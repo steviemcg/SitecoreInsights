@@ -1,0 +1,9 @@
+[Oo]bj/
+[Bb]in/
+/.vs/
+/packages/
+_ReSharper.*
+*.user
+*.suo
+*.bak
+*.pid
